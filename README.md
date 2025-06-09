@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Language Learning (German, English and Russian)
 - 🌱 I’m currently learning JavaScript and Advanced HTML/CSS
 - 📫 Reach me at luca.mondani@magenta.de
-- ⚡ Fun fact: I'm only 14 years old
+
 
 <!---
 LucaMondani/LucaMondani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
