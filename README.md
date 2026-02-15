@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @LucaMondani
-- 👀 I’m interested in Programming and Language Learning (German, English and Russian)
-- 🌱 I’m currently learning JavaScript and Advanced HTML/CSS
 - 📫 Reach me at luca.mondani@magenta.de
 
 
